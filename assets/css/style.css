@@ -1,0 +1,17 @@
+.jumbotron {
+	text-align: center;
+	background: #C4F3F2;
+}
+#trainTable{
+	background-color:#A5BDE8;
+	font-size: 15px;
+	color: darkblue;
+	width: 100%;
+	padding: 10px;
+	border-radius: 3px;
+	margin:0 auto;
+	text-align: center;
+}
+th{
+	text-align: center;
+}
